@@ -1,4 +1,4 @@
-# health-prince-frontend
+# SDMR-frontend
 
 ## Project setup
 ```
